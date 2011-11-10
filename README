@@ -1,0 +1,6 @@
+This is a small script to read molecular smiles-codes from a file and convert them to pdf with the corresponding file-name.
+It makes use of OASA: http://bkchem.zirael.org/oasa_en.html
+
+The file containing the smiles should be structured:
+
+<smiles> <name>
